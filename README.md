@@ -1,1 +1,21 @@
-Esta base de datos fue diseñada para guardar datos de atletas de taekwondo con la intención de hacerlo formalmente, es decir, como se realiza en competencias internacionales de taekwondo profesionales, en donde las características más importantes son la edad, el peso para asignar la categoría de combate del competidor, el grado kup del atleta y el país al que representa. Además, la edad de un atleta que compite profesionalmente va de los 16 a los 35 años como máximo (por cuestiones de desempeño físico) y de un peso que va de los 40.00 kg (mínimo) para entrar a la categoría más ligera a los 90.00 kg (máximo) para entrar a la categoría más pesada.
+# **Data Base Project - ICC** 🥋
+
+- Bonilla Reyes Dafne
+
+## **Use**
+
+- Compile from `src\main\java\mx\unam\ciencias\icc`:
+
+```
+mvn compile
+```
+- Execute from `src\main\java\mx\unam\ciencias\icc`:
+
+```
+mvn install
+```
+## Explanation
+
+<div align="justify">
+This database was designed to save data of taekwondo athletes with the intention of doing it formally, that is, as it is done in international professional taekwondo competitions, where the most important characteristics are age, weight to assign the category of competitor's bout, the athlete's kup grade and the country he represents. In addition, the age of an athlete who competes professionally goes from 16 to 35 years as a maximum (for reasons of physical performance) and a weight that goes from 40.00 kg (minimum) to enter the lightest category at 90.00 kg (maximum) to enter the heaviest category.
+</div>
